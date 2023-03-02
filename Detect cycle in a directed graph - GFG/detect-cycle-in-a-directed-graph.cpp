@@ -6,73 +6,38 @@ using namespace std;
 class Solution {
   public:
     // Function to detect cycle in a directed graph.
-    // bool dfs(int node,vector<int> adj[],vector<int>&vis,vector<int>&pathvis)
-    // {
-    //     vis[node]=1;
-    //     pathvis[node]=1;
+    bool dfs(int node,vector<int> adj[],vector<int>&vis,vector<int>&pathvis)
+    {
+        vis[node]=1;
+        pathvis[node]=1;
         
-    //     for(auto it : adj[node])
-    //     {
-    //         if(!vis[it])
-    //         {
-    //             if(dfs(it,adj,vis,pathvis)==true) return true;
-                
-    //             else if(pathvis[it]){
-    //                 return true;
-    //             }
-    //         }
-    //     }
-    //     pathvis[node]=0;
-    //     return false;
-    // }
-    // bool isCyclic(int V, vector<int> adj[]) {
-    //     // code here
-    //     vector<int>vis(V,0);
-    //     vector<int>pathvis(V,0);
+        for(auto it : adj[node])
+        {
+            if(!vis[it])
+            {
+                if(dfs(it,adj,vis,pathvis)==true) return true;
+            }
+            else if(pathvis[it]){
+                    return true;
+                }
+        }
+        pathvis[node]=0;
+        return false;
+    }
+    bool isCyclic(int V, vector<int> adj[]) {
+        // code here
+        vector<int>vis(V,0);
+        vector<int>pathvis(V,0);
         
-    //     for(int i=0;i<V;i++)
-    //     {
-    //         if(!vis[i])
-    //         {
-    //             if(dfs(i,adj,vis,pathvis)==true) return true;
-    //         }
-    //     }
-    //     return false;
-    // }
-    bool dfsCheck(int node, vector<int> adj[], int vis[], int pathVis[]) {
-		vis[node] = 1;
-		pathVis[node] = 1;
-
-		// traverse for adjacent nodes
-		for (auto it : adj[node]) {
-			// when the node is not visited
-			if (!vis[it]) {
-				if (dfsCheck(it, adj, vis, pathVis) == true)
-					return true;
-			}
-			// if the node has been previously visited
-			// but it has to be visited on the same path
-			else if (pathVis[it]) {
-				return true;
-			}
-		}
-
-		pathVis[node] = 0;
-		return false;
-	}
-public:
-	// Function to detect cycle in a directed graph.
-	bool isCyclic(int V, vector<int> adj[]) {
-		int vis[V] = {0};
-		int pathVis[V] = {0};
-
-		for (int i = 0; i < V; i++) {
-			if (!vis[i]) {
-				if (dfsCheck(i, adj, vis, pathVis) == true) return true;
-			}
-		}
-		return false;
-	}
+        for(int i=0;i<V;i++)
+        {
+            if(!vis[i])
+            {
+                if(dfs(i,adj,vis,pathvis)==true) return true;
+            }
+        }
+        return false;
+    }
 };
 
 //{ Driver Code Starts.
