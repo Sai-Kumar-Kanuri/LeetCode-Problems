@@ -28,9 +28,9 @@ public:
             int dis=it.first;
             pq.pop();
             
-            if(dis>dist[node]){
-                continue;
-            }
+            // if(dis>dist[node]){
+            //     continue;
+            // }
             
             for(auto it:adj[node])
             {
