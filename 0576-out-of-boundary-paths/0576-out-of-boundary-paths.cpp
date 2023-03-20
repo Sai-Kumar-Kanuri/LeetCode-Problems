@@ -3,7 +3,7 @@ public:
     int mod=1e9+7;
     int f(int i,int j,int m,int n,int maxMove,vector<vector<vector<int>>>&dp)
     {
-        if(i==m || i<0 || j==n || j<0) 
+        if((i==m || i<0 || j==n || j<0) && maxMove>=0) 
         {
             return 1;
         }
