@@ -10,11 +10,13 @@ public:
         {
             if(i<m)
             {
-                res.push_back(word1[i++]);
+                res.push_back(word1[i]);
+                i++;
             }
             if(j<n)
             {
-                res.push_back(word2[j++]);
+                res.push_back(word2[j]);
+                j++;
             }
         }
         return res;
