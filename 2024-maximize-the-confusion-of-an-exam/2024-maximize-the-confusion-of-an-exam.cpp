@@ -11,7 +11,7 @@ public:
                 ch_cnt++;
             }
             
-            while(left<answerKey.size() && ch_cnt>k){
+            while(left<=right && ch_cnt>k){
                 if(answerKey[left]==ch){
                     ch_cnt--;
                 }
