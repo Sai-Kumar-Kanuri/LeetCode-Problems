@@ -45,11 +45,7 @@ public:
 	        }
 	    }
 	    
-	    if(topo.size()==N)
-	    {
-	        return true;
-	    }
+	    return(topo.size()==N);
 	    
-	    return false;
     }
 };
