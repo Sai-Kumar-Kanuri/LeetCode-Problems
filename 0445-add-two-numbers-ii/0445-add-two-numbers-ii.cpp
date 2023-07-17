@@ -41,7 +41,8 @@ public:
             
             ans->val=totalSum%10;
             carry=totalSum/10;
-            ListNode* newNode= new ListNode(carry);
+            ListNode* newNode= new ListNode();
+            newNode->val=carry;
             newNode->next=ans;
             ans=newNode;
             totalSum=carry;
