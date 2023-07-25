@@ -13,7 +13,7 @@ public:
         }
         
         
-        while(right>=left && arr[right]>=arr[right-1] ){
+        while(right>left && arr[right]>=arr[right-1] ){
             right--;
         }
         
