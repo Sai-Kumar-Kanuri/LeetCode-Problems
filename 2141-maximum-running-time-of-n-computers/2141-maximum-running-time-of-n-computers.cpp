@@ -1,13 +1,18 @@
 class Solution {
 public:
     long long f(vector<int>& batteries,long long time,int n){
-        long long totTime = time*n;
+        long long duration =0;
         
-        for(long long bTime : batteries){
-            totTime -= min(time, bTime);
+        for(auto battery:batteries){
+            if(battery<time){
+                duration+=battery;
+            }else{
+                duration+=time;
+            }
         }
         
-        return (totTime <= 0);
+        
+        return duration >= time*n;
     }
     long long maxRunTime(int n, vector<int>& batteries) {
         long long low=0,high=0;
