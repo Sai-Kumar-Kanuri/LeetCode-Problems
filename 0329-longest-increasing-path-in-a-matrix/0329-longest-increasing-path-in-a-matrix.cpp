@@ -1,38 +1,66 @@
 class Solution {
 public:
-
-    int f(int i,int j,vector<vector<int>>&matrix,int prev,vector<vector<int>>&dp){
-
-        if(i<0 || j<0 || i==matrix.size() || j==matrix[0].size() || prev>=matrix[i][j]){
-            return 0;
-        }
-        
-        if(dp[i][j]!=-1){
-            return dp[i][j];
-        }
-        
-        
-        int u=f(i-1,j,matrix,matrix[i][j],dp);
-        int r=f(i,j+1,matrix,matrix[i][j],dp);
-        int d=f(i+1,j,matrix,matrix[i][j],dp);
-        int l=f(i,j-1,matrix,matrix[i][j],dp);
-        
-        return dp[i][j]=max({u,r,d,l})+1;
-    }
-    
     int longestIncreasingPath(vector<vector<int>>& matrix) {
-        int n=matrix.size();
-        int m=matrix[0].size();
+        if (matrix.empty() || matrix[0].empty()) return 0;
         
-        vector<vector<int>>dp(n,vector<int>(m,-1));
+        int n = matrix.size();
+        int m = matrix[0].size();
         
-        int ans=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                ans=max(ans,f(i,j,matrix,-1,dp));
+        vector<vector<int>> indegree(n, vector<int>(m, 0));
+        int drow[] = {-1, 0, 1, 0};
+        int dcol[] = {0, 1, 0, -1};
+        
+        // Calculate the indegree of each cell.
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                for (int k = 0; k < 4; k++) {
+                    int ni = i + drow[k];
+                    int nj = j + dcol[k];
+                    
+                    if (ni >= 0 && ni < n && nj >= 0 && nj < m && matrix[ni][nj] > matrix[i][j]) {
+                        indegree[ni][nj]++;
+                    }
+                }
             }
         }
         
-        return ans;
+        queue<pair<int, int>> q;
+        
+        // Add all cells with indegree 0 to the queue.
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (indegree[i][j] == 0) {
+                    q.push({i, j});
+                }
+            }
+        }
+        
+        int longestPath = 0;
+        
+        while (!q.empty()) {
+            int size = q.size();
+            
+            while (size--) {
+                int i = q.front().first;
+                int j = q.front().second;
+                q.pop();
+                
+                for (int k = 0; k < 4; k++) {
+                    int ni = i + drow[k];
+                    int nj = j + dcol[k];
+                    
+                    if (ni >= 0 && ni < n && nj >= 0 && nj < m && matrix[ni][nj] > matrix[i][j]) {
+                        indegree[ni][nj]--;
+                        if (indegree[ni][nj] == 0) {
+                            q.push({ni, nj});
+                        }
+                    }
+                }
+            }
+            
+            longestPath++;
+        }
+        
+        return longestPath;
     }
 };
