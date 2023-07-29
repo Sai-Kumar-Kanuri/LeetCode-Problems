@@ -1,31 +1,10 @@
+#include <algorithm>
 class Solution {
 public:
-    int searchInsert(vector<int>& nums, int target) {
+    int searchInsert(vector<int>& arr, int target) {
         
-        int low=0;
-        int high=nums.size();
-        
-        if(target>nums[high-1]){
-            return high;
-        }
-        
-        
-        while(low<=high){
-            int mid=(low+high)/2;
-            
-            if(nums[mid]==target){
-                return mid;
-            }
-            
-            if(target>nums[mid]){
-                low=mid+1;
-            }
-            
-            else{
-                high=mid-1;
-            }
-        }
-        return low;
+        int i = lower_bound(arr.begin(),arr.end(),target)-arr.begin();
+        return i;
         
         
     }
