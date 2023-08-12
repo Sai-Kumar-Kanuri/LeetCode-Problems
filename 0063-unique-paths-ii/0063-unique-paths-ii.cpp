@@ -22,9 +22,9 @@ public:
         }
         
         int up=f(i-1,j,obstacleGrid,dp);
-        int down=f(i,j-1,obstacleGrid,dp);
+        int left=f(i,j-1,obstacleGrid,dp);
         
-        return dp[i][j]= up+down;
+        return dp[i][j]= up+left;
         
     }
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
