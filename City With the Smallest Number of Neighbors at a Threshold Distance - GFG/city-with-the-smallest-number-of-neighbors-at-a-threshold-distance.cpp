@@ -8,59 +8,48 @@ using namespace std;
 // User function Template for C++
 class Solution {
   public:
-    int findCity(int n, int m, vector<vector<int>>& edges,
-                 int distanceThreshold) {
-                       vector<vector<int>>dist(n,vector<int>(n,1e9));
+    int findCity(int n, int m, vector<vector<int>>& edges,int distanceThreshold) {
         
-        for(auto it: edges)
-        {
-            dist[it[0]][it[1]]=it[2];
-            dist[it[1]][it[0]]=it[2];
+        vector<vector<int>>matrix(n,vector<int>(n,1e9));
+        
+        for(int i=0;i<n;i++){
+            matrix[i][i]=0;
         }
         
-        for(int i=0;i<n;i++)
-        {
-            dist[i][i]=0;
+        for(auto edge:edges){
+            matrix[edge[0]][edge[1]]=edge[2];
+            matrix[edge[1]][edge[0]]=edge[2];
         }
         
-        for(int k=0;k<n;k++)
-        {
-            for(int i=0;i<n;i++)
-            {
-                for(int j=0;j<n;j++)
-                {
-                    if(dist[i][k]==1e9 || dist[k][j]==1e9)
-                        continue;
-                    
-                    dist[i][j]=min(dist[i][j],dist[i][k]+dist[k][j]);
+        for(int k=0;k<n;k++){
+            for(int i=0;i<n;i++){
+                for(int j=0;j<n;j++){
+                    if(matrix[i][k]==1e9 || matrix[k][j]==1e9) continue;
+                    matrix[i][j]=min(matrix[i][j],matrix[i][k]+matrix[k][j]);
                 }
             }
         }
         
-        int cntCity=n;
-        int cityNo=-1;
+        int cityNo = -1;
+        int cityCnt=n;
         
-        for(int city=0;city<n;city++)
-        {
+        for(int i=0;i<n;i++){
             int cnt=0;
-            for(int adjCity=0;adjCity<n;adjCity++)
-            {
-                if(dist[city][adjCity]<=distanceThreshold)
-                {
+            for(int j=0;j<n;j++){
+                if(matrix[i][j]<=distanceThreshold){
                     cnt++;
                 }
-                
             }
-            if(cnt<=cntCity)
-                {
-                    cntCity=cnt;
-                    cityNo=city;
-                }
+            if(cnt<=cityCnt){
+                cityNo=i;
+                cityCnt=cnt;
+            }
         }
-        return cityNo;
         
-                 }
+        return cityNo;
+    }
 };
+
 
 
 //{ Driver Code Starts.
