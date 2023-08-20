@@ -21,16 +21,6 @@ class Solution {
             }
         }
         
-        // DisjointSet(int n) {
-        //     parent.resize(n + 1);
-        //     size.resize(n + 1);
-        //     for (int i = 0; i <= n; i++) { // Change 'i < n' to 'i <= n'
-        //         parent[i] = i;
-        //         size[i] = 1; // Initialize size to 1, as each element initially forms its own set
-        //     }
-        // }
-
-        
         int findUPar(int node){
             if(parent[node]==node){
                 return node;
