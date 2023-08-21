@@ -1,100 +1,130 @@
 class Solution {
 public:
-    class UnionFind {
+    class DisjointSet {
+        vector<int> rank, parent, size;
     public:
-        vector<int> parent;
-        vector<int> size;
-        int maxSize;
-
-        UnionFind(int n) {
-            parent.resize(n);
-            size.resize(n, 1);
-            maxSize = 1;
-            for (int i = 0; i < n; i++) {
+        DisjointSet(int n) {
+            rank.resize(n + 1, 0);
+            parent.resize(n + 1);
+            size.resize(n + 1);
+            for (int i = 0; i <= n; i++) {
                 parent[i] = i;
+                size[i] = 1;
             }
         }
 
-        int find(int x) {
-            // Finds the root of x
-            if (x != parent[x]) {
-                parent[x] = find(parent[x]);
-            }
-            return parent[x];
+        int findUPar(int node) {
+            if (node == parent[node])
+                return node;
+            return parent[node] = findUPar(parent[node]);
         }
 
-        bool unite(int x, int y) {
-            // Connects x and y
-            int rootX = find(x);
-            int rootY = find(y);
-            if (rootX != rootY) {
-                if (size[rootX] < size[rootY]) {
-                    swap(rootX, rootY);
-                }
-                parent[rootY] = rootX;
-                size[rootX] += size[rootY];
-                maxSize = max(maxSize, size[rootX]);
-                return true;
+        void unionByRank(int u, int v) {
+            int ulp_u = findUPar(u);
+            int ulp_v = findUPar(v);
+            if (ulp_u == ulp_v) return;
+            if (rank[ulp_u] < rank[ulp_v]) {
+                parent[ulp_u] = ulp_v;
             }
-            return false;
+            else if (rank[ulp_v] < rank[ulp_u]) {
+                parent[ulp_v] = ulp_u;
+            }
+            else {
+                parent[ulp_v] = ulp_u;
+                rank[ulp_u]++;
+            }
+        }
+
+        void unionBySize(int u, int v) {
+            int ulp_u = findUPar(u);
+            int ulp_v = findUPar(v);
+            if (ulp_u == ulp_v) return;
+            if (size[ulp_u] < size[ulp_v]) {
+                parent[ulp_u] = ulp_v;
+                size[ulp_v] += size[ulp_u];
+            }
+            else {
+                parent[ulp_v] = ulp_u;
+                size[ulp_u] += size[ulp_v];
+            }
         }
     };
-
-    vector<vector<int>> findCriticalAndPseudoCriticalEdges(int n, vector<vector<int>>& edges) {
-        auto newEdges = edges;
-        // Add index to edges for tracking
+    vector<vector<int>> findCriticalAndPseudoCriticalEdges(int n, vector<vector<int>>& edges){
+        
+        DisjointSet ds(n);
+        
+        vector<vector<int>>newEdges = edges;
         int m = newEdges.size();
-        for (int i = 0; i < m; i++) {
+        for(int i=0;i<m;i++){
             newEdges[i].push_back(i);
         }
-
-        // Sort edges based on weight
-        sort(newEdges.begin(), newEdges.end(), [](auto& a, auto& b) {
-            return a[2] < b[2];
+        
+        sort(newEdges.begin(),newEdges.end(),[](auto &a,auto &b){
+            return a[2]<b[2];
         });
-
-        // Find MST weight using union-find
-        UnionFind ufStd(n);
-        int stdWeight = 0;
-        for (const auto& edge : newEdges) {
-            if (ufStd.unite(edge[0], edge[1])) {
-                stdWeight += edge[2];
+        
+        int mst=0;
+        
+        for(auto it: newEdges){
+            int u = it[0];
+            int v = it[1];
+            int wt = it[2];
+            
+            if(ds.findUPar(u)!=ds.findUPar(v)){
+                ds.unionBySize(u,v);
+                mst+=wt;
             }
         }
-
-        vector<vector<int>> results(2);
-        // Check each edge for critical and pseudo-critical
-        for (int i = 0; i < m; i++) {
-            UnionFind ufIgnore(n);
-            int ignoreWeight = 0;
-            for (int j = 0; j < m; j++) {
-                if (i != j && ufIgnore.unite(newEdges[j][0], newEdges[j][1])) {
-                    ignoreWeight += newEdges[j][2];
-                }
-            }
-
-            // If the graph is disconnected or the total weight is greater, 
-            // the edge is critical
-            if (ufIgnore.maxSize < n || ignoreWeight > stdWeight) {
-                results[0].push_back(newEdges[i][3]);
-            } else {
-                // Force this edge and calculate MST weight
-                UnionFind ufForce(n);
-                ufForce.unite(newEdges[i][0], newEdges[i][1]);
-                int forceWeight = newEdges[i][2];
-                for (int j = 0; j < m; j++) {
-                    if (i != j && ufForce.unite(newEdges[j][0], newEdges[j][1])) {
-                        forceWeight += newEdges[j][2];
+        
+        vector<int>critical_edges;
+        vector<int>pseudo_edges;
+        
+        for(int i=0;i<m;i++){
+            
+            DisjointSet ds1(m);
+            int currMst = 0;
+            for(int j=0;j<m;j++){
+                
+                if(i!=j){
+                    
+                    int u = newEdges[j][0];
+                    int v = newEdges[j][1];
+                    int wt= newEdges[j][2];
+                    
+                    if(ds1.findUPar(u)!=ds1.findUPar(v)){
+                        ds1.unionBySize(u,v);
+                        currMst+=wt;
                     }
                 }
-
-                // If total weight is the same, the edge is pseudo-critical
-                if (forceWeight == stdWeight) {
-                    results[1].push_back(newEdges[i][3]);
+            }
+            
+            if(currMst>mst || currMst<mst){
+                critical_edges.push_back(newEdges[i][3]);
+            }else{
+                DisjointSet ds3(m);
+                
+                ds3.unionBySize(newEdges[i][0],newEdges[i][1]);
+                
+                int forcedMst = newEdges[i][2];
+                
+                for(int j=0;j<m;j++){
+                    
+                    int u = newEdges[j][0];
+                    int v = newEdges[j][1];
+                    int wt = newEdges[j][2];
+                    
+                    if(ds3.findUPar(u)!=ds3.findUPar(v)){
+                        ds3.unionBySize(u,v);
+                        forcedMst+=wt;
+                    }
+                }
+                if(forcedMst == mst){
+                    pseudo_edges.push_back(newEdges[i][3]);
                 }
             }
         }
-
-        return results;
+        
+        
+        return {critical_edges,pseudo_edges};
     }
 };
