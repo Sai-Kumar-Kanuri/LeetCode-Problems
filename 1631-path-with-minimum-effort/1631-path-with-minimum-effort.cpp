@@ -4,7 +4,7 @@ public:
         int n=heights.size();
         int m=heights[0].size();
         
-        priority_queue<pair<int, pair<int, int>>,vector<pair<int, pair<int, int>>>,greater<pair<int, pair<int, int>>>>pq;
+        priority_queue<pair<int, pair<int, int>>,vector<pair<int, pair<int, int>>>,greater<pair<int, pair<int, int>>>>pq; //{effort,{row,col}}
         
         pq.push({0,{0,0}});
         
