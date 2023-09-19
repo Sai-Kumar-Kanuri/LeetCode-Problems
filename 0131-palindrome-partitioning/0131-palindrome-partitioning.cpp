@@ -1,33 +1,37 @@
 class Solution {
 public:
-    vector < vector < string >> partition(string s) {
-      vector < vector < string > > res;
-      vector < string > path;
-      partitionHelper(0, s, path, res);
-      return res;
+    bool isPalindrome(string &s,int start,int end){
+        while(start<end){
+            if(s[start]!=s[end]){
+                return false;
+            }
+            
+            start++;
+            end--;
+        }
+        
+        return true;
     }
-
-  void partitionHelper(int index, string s, vector < string > & path,
-    vector < vector < string > > & res) {
-    if (index == s.size()) {
-      res.push_back(path);
-      return;
+    void f(string &s,int start,vector<string>&temp,vector<vector<string>>&ans){
+        if(start>=s.length()){
+            ans.push_back(temp);
+        }
+        
+        for(int end=start;end<s.length();end++){
+            if(isPalindrome(s,start,end)){
+                temp.push_back(s.substr(start,end-start+1));
+                f(s,end+1,temp,ans);
+                temp.pop_back();
+            }
+        }
     }
-    for (int i = index; i < s.size(); ++i) {
-      if (isPalindrome(s, index, i)) {
-        path.push_back(s.substr(index, i - index + 1));
-        partitionHelper(i + 1, s, path, res);
-        path.pop_back();
-      }
+    vector<vector<string>> partition(string s) {
+        vector<vector<string>>ans;
+        
+        vector<string>temp;
+        
+        f(s,0,temp,ans);
+        
+        return ans;
     }
-  }
-
-  bool isPalindrome(string s, int start, int end) {
-    while (start <= end) {
-      if (s[start++] != s[end--])
-        return false;
-    }
-    return true;
-  }
-   
 };
