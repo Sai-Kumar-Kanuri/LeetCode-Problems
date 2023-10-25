@@ -2,31 +2,30 @@ class Solution {
 public:
     string frequencySort(string s) {
         
+        string ans = "";
         map<char,int>mp;
-        string ans="";
-        
-        for(int i=0;i<s.size();i++)
-        {
-            mp[s[i]]++;
+
+        for(auto it : s){
+            mp[it]++;
         }
-        
-        vector<pair<int,char>>v;
-        
-        for(auto it : mp)
-        {
-            v.push_back({it.second,it.first});
+
+
+        vector<pair<int,char>>arr;
+
+        for(auto it:mp){
+            arr.push_back({it.second,it.first});
         }
-        
-        sort(v.rbegin(), v.rend());
-        
-        for(auto it:v)
-        {
-            int d=it.first;
-            for(int i=0;i<d;i++)
-            {
+
+        sort(arr.rbegin(),arr.rend());
+
+        for(auto it: arr){
+            int n = it.first;
+
+            for(int i=0;i<n;i++){
                 ans+=it.second;
             }
         }
+
         return ans;
     }
 };
