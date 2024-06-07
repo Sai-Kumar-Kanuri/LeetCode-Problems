@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -23,11 +24,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1044-find-common-characters) |
 # Array
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1044-find-common-characters) |
 # Simulation
@@ -38,3 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0876-hand-of-straights) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0648-replace-words) |
