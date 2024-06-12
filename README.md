@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0876-hand-of-straights) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0648-replace-words](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1044-find-common-characters) |
@@ -45,3 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0648-replace-words) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
