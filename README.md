@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Simulation
 |  |
 | ------- |
@@ -78,3 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+# Counting
+|  |
+| ------- |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
