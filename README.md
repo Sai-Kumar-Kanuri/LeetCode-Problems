@@ -112,10 +112,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
