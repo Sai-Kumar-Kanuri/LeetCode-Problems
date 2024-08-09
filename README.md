@@ -117,12 +117,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3516-design-neighbor-sum-service](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3519-find-the-number-of-winning-players](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3516-design-neighbor-sum-service](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
+| [3519-find-the-number-of-winning-players](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [3519-find-the-number-of-winning-players](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Design
 |  |
 | ------- |
