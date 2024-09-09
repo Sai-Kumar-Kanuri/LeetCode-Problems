@@ -190,4 +190,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0476-number-complement) |
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
