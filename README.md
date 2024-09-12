@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3516-design-neighbor-sum-service](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3519-find-the-number-of-winning-players) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3516-design-neighbor-sum-service](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Two Pointers
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Design
 |  |
@@ -190,9 +193,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0725-split-linked-list-in-parts) |
+## String
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
