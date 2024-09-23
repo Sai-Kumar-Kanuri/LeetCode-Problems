@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3516-design-neighbor-sum-service](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3519-find-the-number-of-winning-players) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3516-design-neighbor-sum-service](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Two Pointers
@@ -205,8 +207,17 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
