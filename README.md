@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -251,4 +254,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0382-linked-list-random-node) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
