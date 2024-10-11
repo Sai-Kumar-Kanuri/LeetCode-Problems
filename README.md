@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -258,4 +259,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
