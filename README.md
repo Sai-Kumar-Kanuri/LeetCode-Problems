@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0567-permutation-in-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2580-circular-sentence](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
