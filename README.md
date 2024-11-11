@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0382-linked-list-random-node](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0382-linked-list-random-node) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Reservoir Sampling
