@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3516-design-neighbor-sum-service](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3519-find-the-number-of-winning-players) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
 |  |
 | ------- |
