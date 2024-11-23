@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1972-rotating-the-box](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3516-design-neighbor-sum-service](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1972-rotating-the-box](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [1972-rotating-the-box](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [3516-design-neighbor-sum-service](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 ## Simulation
 |  |
