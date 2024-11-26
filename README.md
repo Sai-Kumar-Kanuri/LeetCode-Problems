@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1972-rotating-the-box](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3516-design-neighbor-sum-service](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Linked List
 |  |
 | ------- |
