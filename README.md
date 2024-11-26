@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0567-permutation-in-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0812-rotate-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2580-circular-sentence](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
