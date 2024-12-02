@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0804-rotated-digits](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0804-rotated-digits) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0382-linked-list-random-node](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0382-linked-list-random-node) |
+| [0804-rotated-digits](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0804-rotated-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Reservoir Sampling
 |  |
