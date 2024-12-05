@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -309,4 +310,16 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0812-rotate-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
