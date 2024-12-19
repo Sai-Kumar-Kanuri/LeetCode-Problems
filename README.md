@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0729-my-calendar-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
@@ -303,11 +306,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## String Matching
