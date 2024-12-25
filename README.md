@@ -90,10 +90,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -332,4 +335,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
