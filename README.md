@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0494-target-sum](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0804-rotated-digits](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0804-rotated-digits) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
