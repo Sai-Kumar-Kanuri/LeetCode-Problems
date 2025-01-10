@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0382-linked-list-random-node](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0382-linked-list-random-node) |
 | [0804-rotated-digits](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0804-rotated-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Reservoir Sampling
 |  |
 | ------- |
