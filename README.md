@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3516-design-neighbor-sum-service](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3516-design-neighbor-sum-service) |
 ## Backtracking
 |  |
