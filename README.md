@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1972-rotating-the-box](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1972-rotating-the-box) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3519-find-the-number-of-winning-players) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Design
