@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1972-rotating-the-box](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0494-target-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Greedy
 |  |
 | ------- |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0476-number-complement](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0172-factorial-trailing-zeroes](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0382-linked-list-random-node](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0382-linked-list-random-node) |
 | [0804-rotated-digits](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0804-rotated-digits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Reservoir Sampling
@@ -362,4 +366,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
