@@ -2,11 +2,9 @@ class Solution {
 public:
     const int MOD = 1e9+7;
     int lengthAfterTransformations(string s, int t) {
-        // unordered_map<char,long long>mp;
 
         vector<int>freq(26,0);
         for(auto it : s){
-            // mp[it]++;
             freq[it-'a']++;
         }
 
