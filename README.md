@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1002-maximum-width-ramp](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1256-rank-transform-of-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0135-candy) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0804-rotated-digits](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0804-rotated-digits) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/2562-count-ways-to-build-good-strings) |
