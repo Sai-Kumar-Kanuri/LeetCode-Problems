@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
