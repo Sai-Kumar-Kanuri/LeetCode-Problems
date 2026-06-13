@@ -91,11 +91,13 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0494-target-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0804-rotated-digits](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0804-rotated-digits) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -387,4 +391,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sai-Kumar-Kanuri/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
